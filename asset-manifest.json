@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissors/static/css/main.ae311f53.css",
+    "main.js": "/rock-paper-scissors/static/js/main.562c8900.js",
+    "static/media/noun-scissors-88666.png": "/rock-paper-scissors/static/media/noun-scissors-88666.14ab512f5e6b39da2d27.png",
+    "static/media/noun-question-1101884.png": "/rock-paper-scissors/static/media/noun-question-1101884.1887c6f3e43f25c5045f.png",
+    "static/media/noun-rock-88661.png": "/rock-paper-scissors/static/media/noun-rock-88661.c1d40d46ade261e82327.png",
+    "static/media/noun-paper-88662.png": "/rock-paper-scissors/static/media/noun-paper-88662.ce2eb3e4d84467ad0ed9.png",
+    "index.html": "/rock-paper-scissors/index.html",
+    "main.ae311f53.css.map": "/rock-paper-scissors/static/css/main.ae311f53.css.map",
+    "main.562c8900.js.map": "/rock-paper-scissors/static/js/main.562c8900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae311f53.css",
+    "static/js/main.562c8900.js"
+  ]
+}
