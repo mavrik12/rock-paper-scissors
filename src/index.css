@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+    @apply text-white border bg-emerald-400 border-black px-8 py-3 mb-4
+    hover:bg-transparent hover:text-emerald-400 rounded-md drop-shadow-lg
+}
